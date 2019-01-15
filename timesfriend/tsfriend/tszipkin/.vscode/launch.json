@@ -12,19 +12,29 @@
         },
         {
             "type": "java",
-            "name": "Debug (Launch)-HelloController<config>",
+            "name": "Debug (Launch)-Application<tszipkin>",
             "request": "launch",
-            "mainClass": "com.zhouyu.config.HelloController",
-            "projectName": "config"
+            "mainClass": "com.zhouyu.tszipkin.Application",
+            "projectName": "tszipkin"
         },
         {
             "type": "java",
-            "name": "Spring Boot-Application<config>",
+            "name": "Spring Boot-Application<tszipkin>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
             "console": "internalConsole",
-            "mainClass": "com.zhouyu.config.Application",
-            "projectName": "config",
+            "mainClass": "com.zhouyu.tszipkin.Application",
+            "projectName": "tszipkin",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<tseureka>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.zhouyu.tszipkin.Application",
+            "projectName": "tseureka",
             "args": ""
         }
     ]

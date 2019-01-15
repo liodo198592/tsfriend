@@ -12,19 +12,19 @@
         },
         {
             "type": "java",
-            "name": "Debug (Launch)-HelloController<config>",
+            "name": "Debug (Launch)-Application<dmutex>",
             "request": "launch",
-            "mainClass": "com.zhouyu.config.HelloController",
-            "projectName": "config"
+            "mainClass": "com.zhouyu.dmutex.Application",
+            "projectName": "dmutex"
         },
         {
             "type": "java",
-            "name": "Spring Boot-Application<config>",
+            "name": "Spring Boot-Application<tseureka>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
             "console": "internalConsole",
-            "mainClass": "com.zhouyu.config.Application",
-            "projectName": "config",
+            "mainClass": "com.zhouyu.dmutex.Application",
+            "projectName": "tseureka",
             "args": ""
         }
     ]

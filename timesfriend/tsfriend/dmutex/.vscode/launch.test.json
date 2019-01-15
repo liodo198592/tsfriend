@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "tseureka",
+                "projectName": "tseureka",
+                "workingDirectory": "g:\\gitcode\\tsfriend\\timesfriend\\tsfriend\\dmutex",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "tseureka",
+                "projectName": "tseureka",
+                "workingDirectory": "g:\\gitcode\\tsfriend\\timesfriend\\tsfriend\\dmutex",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
