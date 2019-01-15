@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "feign",
+                "projectName": "feign",
+                "workingDirectory": "g:\\gitcode\\timesfriend\\tsfriend\\feign",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "feign",
+                "projectName": "feign",
+                "workingDirectory": "g:\\gitcode\\timesfriend\\tsfriend\\feign",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
